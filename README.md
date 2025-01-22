@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dubey-Shivani
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning Swift, React Native
+- 🌱 I’m currently working with Swift, React Native, Flutter
 - 💞️ I’m looking to collaborate on something I can help in
 - 📫 How to reach me via email : shishubham85@gmail.com
 
